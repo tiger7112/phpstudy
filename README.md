@@ -23,6 +23,8 @@ DBMS（データベース管理システム）
 
 ：laravel6
 
+：bootstrap
+
 # 参考
 
 Udemy
