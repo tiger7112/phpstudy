@@ -23,6 +23,6 @@ DBMS（データベース管理システム）
 
 ：laravel6
 
-＃ References
+# 参考
 
 Udemy
